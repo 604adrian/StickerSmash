@@ -3,11 +3,11 @@ This is an application made by loosely following the Expo Go 'build an app' tuto
 
 Here is a demonstration of what using the app might look like:
 
-![sexyMan](./assets/readMe/StickerApp.gif)
+![sexyMan](./assets/readMe/StickerApp.gif "A gif of the app")
 
 Then, as an end result, the user is left with this beautiful image in their photo gallery:
 
-![sexyManEndResult](./assets/readMe/StickerApp.PNG)
+![sexyManEndResult](./assets/readMe/StickerApp.PNG "An image of the app")
 
 And there you have it: the very simple sticker app that no one asked for, but everyone needs. Use with caution.
 
