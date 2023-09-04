@@ -7,7 +7,7 @@ Here is a demonstration of what using the app might look like:
 
 Then, as an end result, the user is left with this beautiful image in their photo gallery:
 
-![sexyManEndResult](./assets/readMe/StickerApp.png)
+![sexyManEndResult](./assets/readMe/StickerApp.PNG)
 
 And there you have it: the very simple sticker app that no one asked for, but everyone needs. Use with caution.
 
