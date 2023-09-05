@@ -33,3 +33,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+.DS_Store
+./assets/readMe/StickerApp.gif
+

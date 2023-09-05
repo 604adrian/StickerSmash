@@ -3,7 +3,7 @@ This is an application made by loosely following the Expo Go 'build an app' tuto
 
 Here is a demonstration of what using the app might look like:
 
-![sexyMan](./assets/readMe/StickerApp.gif "A gif of the app")
+![sexyMan](./assets/readMe/out.gif "A gif of the app")
 
 Then, as an end result, the user is left with this beautiful image in their photo gallery:
 
